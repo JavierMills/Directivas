@@ -1,0 +1,17 @@
+.boton{
+    background: linear-gradient(116.49deg,#7000ff,#e700b7 47.4%,#ffa000);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding: 6px 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    }
+
+    .hidden{
+        display: none;
+    }
